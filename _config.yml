@@ -20,7 +20,7 @@ title                    : "Learn By Doing"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Essspressso"
-description              : "커피는 잘 모르지만, 바리스타를 꿈꾸는 엔지니어"
+description              : "커피는 잘 모르지만, 샷추가하는 개발자"
 url                      : "https://holograming.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "holograming" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -95,7 +95,7 @@ analytics:
 author:
   name             : "Essspressso"
   avatar           : "/assets/images/home-coffee.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "백문이 불여일타"
+  bio              : "커피맛은 모르지만, 샷 추가하는 개발자"
   location         : "Incheon"
   email            : "hologram1220@gmail.com"
   links:
