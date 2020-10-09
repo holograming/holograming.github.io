@@ -3,8 +3,8 @@ main:
   - title: "Project"
     url: /project/
   - title: "DevLog"
-    url: /dev/log
+    url: /dev/log/
   - title: "DevBook"
-    url: /dev/book
+    url: /dev/book/
   - title: "Essspressso"
     url: /about/
