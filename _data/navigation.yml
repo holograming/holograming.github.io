@@ -2,5 +2,7 @@
 main:
   - title: "블로그 방문하기"
     url: https://essspressso.info/
+  - title: "Dev"
+    url: /Dev/
   - title: "About"
     url: /about/
