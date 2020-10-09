@@ -1,8 +1,10 @@
 # main links
 main:
-  - title: "블로그 방문하기"
-    url: https://essspressso.info/
-  - title: "Dev"
-    url: /Dev/
-  - title: "About"
+  - title: "Project"
+    url: /project/
+  - title: "DevLog"
+    url: /dev/log
+  - title: "DevBook"
+    url: /deb/book
+  - title: "Essspressso"
     url: /about/

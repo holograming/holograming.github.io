@@ -1,6 +1,6 @@
 ---
 title: "OpenGL"
-permalink: /categories/Dev/
+permalink: /dev/book
 layout: category
 author_profile: true
 taxonomy: OpenGL
